@@ -198,7 +198,11 @@ body.impress-on-moon #bg-image  {
     transition: opacity 2s;
 }
 
-
+body.impress-on-wa #bg-image-3,
+body.impress-on-pobre #bg-image-3  {
+    opacity: 0.7;
+    transition: opacity 2s;
+}
 
 body.impress-on-contexto #bg-image-2,
 body.impress-on-contexto1 #bg-image-2  {
