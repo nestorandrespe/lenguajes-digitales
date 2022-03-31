@@ -188,88 +188,25 @@ img.bg {
     bottom: 0px;
 }
 
-body.impress-on-bg #bg-image,
-body.impress-on-final #bg-image,
-body.impress-on-cita #bg-image,
-body.impress-on-neil #bg-image,
-body.impress-on-jerry #bg-image,
-body.impress-on-moon #bg-image  {
+body.impress-on-diapo1 #bg-image,
+body.impress-on-diapo2 #bg-image,
+body.impress-on-diapo3 #bg-image,
+body.impress-on-diapo4 #bg-image,
+body.impress-on-diapo5 #bg-image,
+body.impress-on-diapo1-1 #bg-image,
+body.impress-on-bg #bg-image  {
     opacity: 0.7;
     transition: opacity 2s;
 }
 
 
-
-body.impress-on-contexto #bg-image-2,
-body.impress-on-contexto1 #bg-image-2  {
-    opacity: 0.7;
-    transition: opacity 2s;
-}
-
-body.impress-on-fifth #bg-fifth {
-    opacity: 0.7;
-    transition: opacity 2s;
-}
-
-body.impress-on-robot #bg-robot {
-    opacity: 0.7;
-    transition: opacity 2s;
-}
-
-body.impress-on-upgrade #bg-upgrade {
-    opacity: 0.7;
-    transition: opacity 2s;
-}
-
-body.impress-on-metropolis #bg-metropolis {
-    opacity: 0.7;
-    transition: opacity 2s;
-}
-
-body.impress-on-exmachina #bg-exmachina {
-    opacity: 0.7;
-    transition: opacity 2s;
-}
-
-body.impress-on-bladerunner #bg-bladerunner {
-    opacity: 0.7;
-    transition: opacity 2s;
-}
-
-#icecream-image {
-    right: 0px;
-    top: 0px;
-}
-
-body.impress-on-icecream #icecream-image,
-body.impress-on-icecream-pro #icecream-image,
-body.impress-on-icecream-con #icecream-image,
-body.impress-on-conclusion #icecream-image,
-body.impress-on-overview #icecream-image {
-    opacity: 0.7;
-    transition: opacity 2s;
-}
-
-#crisps-image {
-    right: 0px;
-    bottom: 0px;
-}
-
-body.impress-on-crisps #crisps-image,
-body.impress-on-crisps-pro #crisps-image,
-body.impress-on-crisps-con #crisps-image,
-body.impress-on-conclusion #crisps-image,
-body.impress-on-overview #crisps-image {
-    opacity: 0.7;
-    transition: opacity 2s;
-}
 
 
 /*************** Slide specific things ****************************/
 
 .pregunta {
     font-weight: 300;
-    background: rgba(166,101,134,.4);
+    background: rgba(171,208,239,.4);
 }
 
 #image-credits {
@@ -290,7 +227,7 @@ body.impress-on-overview #crisps-image {
 }
 
 .inicio .spacer {
-    background-color: rgba(166,101,134,0.2);
+    background-color: rgba(171,208,239,0.2);
     margin-top: 25px;
     padding-top: 25px;
     padding-bottom: 25px;
@@ -298,7 +235,7 @@ body.impress-on-overview #crisps-image {
 
 .inicio h1 {
     position: relative;
-    text-shadow: -5px 5px 0 #a66586, -4px 4px 0 #a66586, -3px 3px 0 #a66586, -2px 2px 0 #a66586, -1px 1px 0 #a66586, 0px -1px 0 #a66586, 1px 0px 0 #a66586;
+    text-shadow: -5px 5px 0 #6591a6, -4px 4px 0 #6591a6, -3px 3px 0 #6591a6, -2px 2px 0 #6591a6, -1px 1px 0 #6591a6, 0px -1px 0 #6591a6, 1px 0px 0 #6591a6;
     color: #ffffff;
     margin-bottom: 0;
 }
@@ -311,7 +248,7 @@ body.impress-on-overview #crisps-image {
     width: 0%;
     height: 50%;
     transition: all 3s ease;
-    background-color: #a66586;
+    background-color: #6591a6;
     z-index: -1;
 }
 
@@ -320,7 +257,7 @@ body.impress-on-overview #crisps-image {
 }
 
 .slide h1 {
-    text-shadow: -5px 5px 0 #a66586, -4px 4px 0 #a66586, -3px 3px 0 #a66586, -2px 2px 0 #a66586, -1px 1px 0 #a66586, 0px -1px 0 #a66586, 1px 0px 0 #a66586;
+    text-shadow: -5px 5px 0 #6591a6, -4px 4px 0 #6591a6, -3px 3px 0 #6591a6, -2px 2px 0 #6591a6, -1px 1px 0 #6591a6, 0px -1px 0 #6591a6, 1px 0px 0 #6591a6;
     color: #ffffff;
 }
 
